@@ -1,0 +1,61 @@
+---
+title: "Soohyun Choi"
+---
+
+<style>
+.column-1{
+  float: left;
+  width: 30%;
+  text-align: left;
+}
+.column-2{
+  display: inline-block;
+  width: 70%;
+  text-align: left;
+}
+</style>
+
+<div class="column-1">
+![](Headshot_close.jpg){#id .class width=5cm}
+</div>
+<div class="column-2">
+Welcome to my site!
+
+I am an PhD candidate of <span style="color:IndianRed">Economics in the School of Economics, Political and Policy Sciences</span> at <span style="color:IndianRed">University of Texas at Dallas</span>, and expect to receive PhD in Spring 2023. I am also a Visiting Assistant Instructor of Economics in <span style="color:#2980B9">Economics and Business Administration Department</span> at <span style="color:#2980B9">Austin College</span>. 
+
+I study U.S. income volatility and interstate migration, and the chapter titles are as follows:
+
+  * Trends in Earnings Volatility for U.S. Men: 1979-2017 *(Job Market Paper)
+  * Evaluating Estimators of Tax Migration Responses
+  * Income Convergence and Regional Labor Markets in the U.S. 
+
+</div>
+<br></br>
+
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+</style>
+
+<div class="col2">
+School of Economic, Political and Policy Sciences\
+University of Texas at Dallas\
+800 W Campbell Rd \
+Richardson, TX 75080\
+Email: [Soohyun.Choi@utdallas.edu](mailto:Soohyun.Choi@utdallas.edu)
+
+[![](128px-LinkedIn_logo_initials.png){width=0.83cm}](https://www.linkedin.com/in/soohyun-choi-b27aa6186/)
+
+Economics and Business Administration Department\
+Austin College\
+900 N Grand Ave\
+Sherman, TX 75090\
+Email: [schoi@austincollege.edu](mailto:schoi@austincollege.edu) 
+
+</div>
+
+ 
+

@@ -1,0 +1,29 @@
+---
+title: "Research"
+---
+<br></br>
+
+#### ***Working Papers***
+
+**Trends in Earnings Volatility for U.S. Men: 1979-2017** (Job Market Paper)\
+*- Presented at Midwest Economic Association Annual Meeting*
+
+Abstract: This article explores how U.S. male income evolves over time, ranging from 1979 to 2017. Our goal is to better understand income dynamics by decomposing the income volatility into the permanent component − the long-term average − and transitory component − the period-specific deviation from the average. In addition, the results are compared with existing literature that uses similar variance decomposition. After constructing a pseudo panel using the Current Population Survey, I estimate the structure of income volatility using an extended semiparametric model, building on Moffitt & Zhang (2018). On average, the transitory variance explains about 70% of the total variance. The transitory variance fluctuated through the mid-1990s and declined until 2002. Since then, the transitory variance increased through 2013 and almost recovered to the level in the mid-1990s. The increase in the gross volatility around the Great Recession is primarily caused by the increase in the transitory variance, which is consistent with previous studies even though the exact year of the turning point differs across studies. Estimating the female income volatility and comparing it with that of the male are left for future research.
+
+**Evaluating Estimators of Tax Migration Responses**
+
+**Income Convergence and Regional Labor Markets in the U.S.**
+<br></br>
+
+#### ***Work in Progress***
+**The Effect of a Gig Economy on Renter Evictions** *(with J. Kwak and P. Lee)*
+<br></br>
+
+#### ***Publication***
+Bush, R., and Choi, S. (2019, November). Forecasting Ethereum STORJ token prices: Comparative analyses of applied bitcoin models. *In 2019 International Conference on Data Mining Workshops (ICDMW)* (pp. 216-223). IEEE.
+<br></br>
+
+#### ***Research Experience***
+**Research Assitant**\
+*University of Texas at Dallas*\
+Studied course-taking patterns in high school and academic performance in college between Texas Division I athletes and others *(with Dr. Beron and Dr. O’Brien)*
